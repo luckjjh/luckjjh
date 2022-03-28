@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=luckjjh){: width="100%" height="100%"}
+![trophy](https://github-profile-trophy.vercel.app/?username=luckjjh) {: width="100%" height="100%"}
 
 ![luckjjh's github stats](https://github-readme-stats.vercel.app/api?username=luckjjh&show_icons=true)
 [![luckjjh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luckjjh&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/luckjjh)
