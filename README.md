@@ -11,8 +11,6 @@
 ### <div align="center">I'm Junghyeon Jung, Front-end developer 👨‍💻 working since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on LG Electronics TV System App Team ([Enact part](https://github.com/enactjs/enact))
-  
 
 - ⚡ I’m currently using [React.js](https://github.com/facebook/react) for work 
 
