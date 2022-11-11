@@ -1,70 +1,56 @@
-<div align="center">
-  
-### Hi there 👋
-
-
-
-<!--#### ⚒️Tech Stack⚒️--> 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/luckjjh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/luckjjh)
-</div>
-
-### <div align="center">I'm Junghyeon Jung, Front-end developer 👨‍💻 working since 2022 🚀</div>  
-  
-
-
-- ⚡ I’m currently using [React.js](https://github.com/facebook/react) for work 
-
-
-- 🌱 I’m currently learning Redux  
+<div align="center" style="display:flex">
 
   
 
-<br/>  
+  
+### Hello 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/luckjjh&count_bg=%23333333&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/luckjjh)
 
-## My Skill Set  
-<div align="center">
-<table><tr><td valign="top" width="33%">
+#### I'm Junghyeon Jung, Front-end developer 👨‍💻 working since 2022 🚀
 
-### Frontend  
+##### Front-end Skill
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+</br>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+  
+##### Back-end Skill
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-</div>
-</td>
-<td valign="top" width="33%">
-
-### DevOps  
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
-</div>
-</td></tr></table>  
-
-<br/>  
+##### DevOps
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 </div>
 
-## Github Stats  
 
+---
+
+  
+  
 <div align="center">
  
 <a href="https://solved.ac/luckjjh" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luckjjh" alt="solved.ac profile"/></a>
-<a href="https://solved.ac/luckjjh" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=luckjjh" alt="mazandi profile"/></a>
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckjjh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![luckjjh's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckjjh&theme=dark&show_icons=true)
+<a href="https://solved.ac/luckjjh" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=luckjjh" alt="mazandi profile"/></a>   
+
+<img src="https://github-readme-stats.vercel.app/api?username=luckjjh&theme=dark&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckjjh&theme=dracula&layout=compact"/>
+  
+---
+  
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=luckjjh&area=false&theme=xcode&hide_border=true)
 </div>
 
@@ -72,4 +58,4 @@
 ## Connect with me  
 * E-mail: luckjjh1@naver.com
 
-<br/>  
+
