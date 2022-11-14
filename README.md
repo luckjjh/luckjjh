@@ -1,13 +1,25 @@
 <div align="center" style="display:flex">
 
   
+<div align="left">
+
+<div><img align="right" src="https://github-readme-stats.vercel.app/api?username=luckjjh&theme=dark&show_icons=true"/></div>
 
   
-### Hello 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/luckjjh&count_bg=%23333333&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/luckjjh)
+</div>
+<div align="left">
+  
+### Hello 👋 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/luckjjh&count_bg=%23000000&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/luckjjh)
 
-#### I'm Junghyeon Jung, Front-end developer 👨‍💻 working since 2022 🚀
-
+#### I'm Junghyeon Jung, Front-end developer 
+  👨‍💻 working since 2022 🚀
+  </div>
+  
+<div align="left">
+  
 ##### Front-end Skill
+  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -20,20 +32,31 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckjjh&theme=dracula&layout=compact&langs_count=8"/>
+</div>
+
+  
+<div align="left">
   
 ##### Back-end Skill
+  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
-
+</div>
+  
+<div align="left">
+  
 ##### DevOps
+  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+</div>
 </div>
 
 
@@ -46,8 +69,7 @@
 <a href="https://solved.ac/luckjjh" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luckjjh" alt="solved.ac profile"/></a>
 <a href="https://solved.ac/luckjjh" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=luckjjh" alt="mazandi profile"/></a>   
 
-<img src="https://github-readme-stats.vercel.app/api?username=luckjjh&theme=dark&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckjjh&theme=dracula&layout=compact"/>
+
   
 ---
   
