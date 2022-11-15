@@ -3,7 +3,6 @@
   
 <div align="left">
 
-<div><img align="right" src="https://github-readme-stats.vercel.app/api?username=luckjjh&theme=dark&show_icons=true"/></div>
 
   
 </div>
@@ -34,7 +33,6 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckjjh&theme=dracula&layout=compact&langs_count=8"/>
 </div>
 
   
@@ -64,6 +62,11 @@
 
 ---
 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckjjh&theme=dracula&layout=compact&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=luckjjh&theme=dark&show_icons=true"/>
+
+---
   
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=luckjjh&area=false&theme=xcode&hide_border=true)
 </div>
