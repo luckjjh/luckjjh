@@ -11,6 +11,7 @@
   
 ### Hello 👋 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/luckjjh&count_bg=%23000000&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/luckjjh)
+<a href="https://solved.ac/luckjjh"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=luckjjh"/></a>
 
 #### I'm Junghyeon Jung, Front-end developer 
   👨‍💻 working since 2022 🚀
@@ -63,16 +64,6 @@
 
 ---
 
-  
-  
-<div align="center">
- 
-<a href="https://solved.ac/luckjjh" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luckjjh" alt="solved.ac profile"/></a>
-<a href="https://solved.ac/luckjjh" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=luckjjh" alt="mazandi profile"/></a>   
-
-
-  
----
   
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=luckjjh&area=false&theme=xcode&hide_border=true)
 </div>
