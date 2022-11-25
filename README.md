@@ -59,13 +59,6 @@
 </div>
 </div>
 
-
----
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckjjh&theme=dracula&layout=compact&langs_count=8"/>
-<img src="https://github-readme-stats.vercel.app/api?username=luckjjh&theme=dark&show_icons=true"/>
-
 ---
   
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=luckjjh&area=false&theme=xcode&hide_border=true)
