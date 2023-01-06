@@ -38,8 +38,11 @@
 
 
 ---
+<div align="left">
   
-![Github Graph](https://activity-graph.herokuapp.com/graph?username=luckjjh&area=false&theme=xcode&hide_border=true)
+[![luckjjh's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luckjjh&theme=vue)]((https://github.com/luckjjh?tab=repositories))
+  
+</div>
 </div>
 
 
